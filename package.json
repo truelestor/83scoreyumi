@@ -1,0 +1,18 @@
+{
+  "name": "83scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "my credit score check ◄ Get Your FREE Credit Score my credit score check, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "my credit score check",
+    "apply for credit card without affecting credit score",
+    "is a 745 credit score good",
+    "credit score 400",
+    "no credit score fannie mae"
+  ],
+  "repository": "https://github.com/truelestor/83scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
